@@ -3,6 +3,10 @@
 
 The following sample shows how to migrate from spring cloud aws 2.2.x to 2.3.x when try to perform an SQS integration test with localstack. 
 
+## Requirements
+* Java 11
+* Maven
+
 ---
 **NOTE:**
 

@@ -1,4 +1,4 @@
-package com.ryanair.guide.sqs.initial;
+package com.ryanair.guide.sqs;
 
 import io.awspring.cloud.messaging.core.QueueMessagingTemplate;
 import org.junit.jupiter.api.Test;
