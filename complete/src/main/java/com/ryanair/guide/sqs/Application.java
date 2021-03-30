@@ -1,4 +1,4 @@
-package com.ryanair.guide.sqs.initial;
+package com.ryanair.guide.sqs;
 
 import com.amazonaws.services.sqs.AmazonSQSAsync;
 import io.awspring.cloud.messaging.core.QueueMessagingTemplate;
